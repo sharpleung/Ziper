@@ -1,5 +1,7 @@
 # Ziper类
 
+[English](https://github.com/sharpleung/Ziper/blob/master/README_EN.md)
+
 ## 描述
 
 > 在PHP-ZipArchive类的基础上进行二次封装使得调用更加便捷
